@@ -57,3 +57,10 @@ esp8266 c arduino
 * [网络服务器示例](./notes/网络服务器示例.md)
 
     * 通过页面控制LED
+
+* [客户端基本操作-ESP8266HTTPClient库](./notes/客户端基本操作.md)
+
+
+* [客户端基本操作-WiFiClient库](./notes/客户端基本操作2.md)
+
+* [Stream]
